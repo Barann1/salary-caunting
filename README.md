@@ -1,0 +1,2 @@
+# salary caunting
+ python project
